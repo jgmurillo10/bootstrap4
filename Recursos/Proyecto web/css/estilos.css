@@ -104,6 +104,7 @@ html {
 
   .bienvenidos {
     background: url("../images/fondo-bienvenido-grande.jpg");
-    background-size: cover; } }
+    background-size: cover;
+    background-attachment: fixed;} }
 
 /*# sourceMappingURL=estilos.css.map */
